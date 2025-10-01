@@ -33,9 +33,9 @@ The goal is to provide network operators with accurate traffic predictions and e
 ├── Project_Report.pdf
 ├── optimized_cellular_traffic.ipynb
 ├── README.md
-├── data/                    ← (optional) Place datasets or scripts to download
-├── results/                 ← (optional) Place output graphs, metrics
-└── requirements.txt         ← Python dependencies
+├── data/                    
+├── results/                 
+└── requirements.txt         
 ```
 
 
@@ -90,16 +90,6 @@ LSTM consistently outperforms traditional models in accuracy and scalability. Re
 - Multi-variate forecasting (weather, mobility, user behavior)  
 - Deployment pipeline (API, microservice)  
 - Model pruning, quantization for edge deployment  
-
----
-
-## Contributing
-
-1. Fork the project  
-2. Create a feature branch (`git checkout -b feature/YourFeature`)  
-3. Commit your changes (`git commit -m "Add something"`)  
-4. Push (`git push origin feature/YourFeature`)  
-5. Open a Pull Request  
 
 ---
 
