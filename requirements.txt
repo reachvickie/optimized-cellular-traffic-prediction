@@ -1,0 +1,12 @@
+numpy
+pandas
+matplotlib
+seaborn
+missingno
+scikit-learn
+tensorflow
+keras
+xgboost
+mlxtend
+graphviz
+jupyter
