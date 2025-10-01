@@ -1,7 +1,4 @@
 # Optimized Cellular Traffic Prediction
-
-This repository contains the implementation and supporting materials for the project **“Optimized Cellular Traffic Forecasting Using Machine Learning and Data Compression Techniques.”**
-
 ---
 
 ##  Overview
